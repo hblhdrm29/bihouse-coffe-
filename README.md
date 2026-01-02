@@ -24,8 +24,8 @@ Ikuti langkah-langkah berikut untuk menjalankan project ini di komputer Anda:
 
 1.  **Clone Repository**
     ```bash
-    git clone https://github.com/username/bihouse.git
-    cd bihouse
+    git clone https://github.com/Start-Z/bihouse-coffe-.git
+    cd bihouse-coffe-
     ```
 
 2.  **Install Dependencies**
@@ -54,4 +54,14 @@ Ikuti langkah-langkah berikut untuk menjalankan project ini di komputer Anda:
 - `src/App.tsx`: Komponen utama aplikasi.
 - `public`: Aset statis (gambar menu, icon, dll).
 
-DIbuat dengan ❤️ untuk penikmat kopi.
+## Kontribusi
+
+Kontribusi selalu diterima! Jika Anda ingin berkontribusi pada project ini:
+
+1.  Fork repository ini.
+2.  Buat branch fitur baru (`git checkout -b fitur-baru`).
+3.  Commit perubahan Anda (`git commit -m 'Menambahkan fitur baru'`).
+4.  Push ke branch (`git push origin fitur-baru`).
+5.  Buat Pull Request baru.
+
+---
